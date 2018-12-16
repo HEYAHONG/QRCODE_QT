@@ -10,3 +10,4 @@
 3.窗口说明及结果。  
 ![qrcode_qt](result/qrcode_qt.png)  
 ![result](result/result.png)  
+![result](result/result.gif)  
